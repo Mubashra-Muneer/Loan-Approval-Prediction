@@ -1,4 +1,4 @@
-#Loan Approval Prdeiction
+# Loan-Approval-Prediction
 ## Project Report
 
 ### 1. Introduction
